@@ -496,10 +496,7 @@ footer {
     line-height: 4rem;
     text-transform: capitalize;
     font-weight: bold;
-    background: url('/images/davido--viva.jpeg') no-repeat center;
-    background-size: contain;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #00bf63;
 }
 .sect9 input {
     width: 350px;
@@ -564,7 +561,7 @@ footer {
     }
     .shop {
         position: relative;
-        right: 150px;
+        right: 130px;
     }
     .menu{
         display: block;  
