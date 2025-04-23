@@ -602,8 +602,21 @@ footer {
         padding: 20px 5px;
     }
     .search button {
-        width: 30%; 
+        right: 55px;
+        width: 32%; 
     }
+    /* .search button {
+        position: absolute;
+        height: 57px;
+        right: 59px;
+        width: 20%;
+        top: 22px;
+        font-size: 1.3rem;
+        border-radius: 30px;
+        border: none;
+        background-color: var(--color);
+        color: white;
+    } */
     .search input{
         width: 85%;
         height: 60px;
